@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @damianWu
+- 👋 Hi, I’m Damian
 - I’m interested in physics and C++ programming language
 - I’m currently learning quantum computing and Shor's algorithm (part of my master thesis)
 <!--- 
